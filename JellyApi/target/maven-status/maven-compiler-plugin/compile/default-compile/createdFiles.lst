@@ -1,0 +1,6 @@
+ai\bgbdsl\jellyapi\rest\RestCustomerController.class
+ai\bgbdsl\jellyapi\service\CustomerService.class
+ai\bgbdsl\jellyapi\service\CustomerServiceImpl.class
+ai\bgbdsl\jellyapi\App.class
+ai\bgbdsl\jellyapi\repository\CustomerRepository.class
+ai\bgbdsl\jellyapi\domain\Customer.class
